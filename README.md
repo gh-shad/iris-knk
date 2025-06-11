@@ -140,7 +140,7 @@ This project is focused on concept understanding and visualization.
 
 ---
 👤 Author
-Name: Mohammed Shadhil M
+Name: Mohamed Shadhil H
 
 Institution: Crescent Institute of Science & Technology
 
