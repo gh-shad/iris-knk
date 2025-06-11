@@ -145,4 +145,3 @@ Name: Mohamed Shadhil H
 Institution: Crescent Institute of Science & Technology
 
 Course: AI & ML – Week 3 Mini Project
-07/06/2025
